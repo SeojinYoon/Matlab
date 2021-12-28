@@ -1,3 +1,8 @@
+window.MathJax = {
+  loader: {load: ['[tex]/bbox']},
+  tex: {packages: {'[+]': ['bbox']}}
+};
+
 # Matlab
 Matlab practice
 
