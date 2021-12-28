@@ -5,7 +5,9 @@ dd <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -
 
 <img src="https://render.githubusercontent.com/render/math?math=\frac{P(x\|θ)P(θ)}{\sum_{Θ}P(x\|θ)P(θ)})">
 
+```math
 $$ 33 $$
+```
 
 ```python
 \begin{equation*}
