@@ -5,6 +5,8 @@ dd <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -
 
 <img src="https://render.githubusercontent.com/render/math?math=\frac{P(x\mid\theta)P(\theta)}{\sum_{\theta}P(x\mid\theta)P(\theta)})">
 
+<img src="https://render.githubusercontent.com/render/math?math=P(x1\mid\theta1)">
+
 ```math
 $$ 33 $$
 ```
