@@ -16,3 +16,5 @@ $$ 33 $$
 \begin{markdown}
 \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 \end{markdown}
+
+<img src="https://render.githubusercontent.com/render/math?math=P(someone_elected_president)=p(1-p)^{1-x}">
