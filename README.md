@@ -3,7 +3,7 @@ Matlab practice
 
 dd <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1"> ss
 
-<img src="https://render.githubusercontent.com/render/math?math=\frac{P(x\mid\theta)P(\theta)}{\sum_{\theta}P(x\|\theta)P(\theta)})">
+<img src="https://render.githubusercontent.com/render/math?math=\frac{P(x\mid\theta)P(\theta)}{\sum_{\theta}P(x\mid\theta)P(\theta)})">
 
 ```math
 $$ 33 $$
